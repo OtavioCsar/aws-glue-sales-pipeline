@@ -1,0 +1,4 @@
+order_id,customer_id,product,quantity,price,order_date,region
+1,C001,Laptop,2,1200.00,2025-07-01,Sao Paulo
+2,C002,Phone,1,800.00,2025-07-02,Londrina
+3,C001,Tablet,3,300.00,2025-07-03,Sao Paulo
